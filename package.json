@@ -1,0 +1,23 @@
+{
+  "name": "MaratonaDev",
+  "version": "1.0.0",
+  "description": "MaratonaDev",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenriqueCamilo/MaratonaDev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenriqueCamilo/MaratonaDev/issues"
+  },
+  "homepage": "https://github.com/HenriqueCamilo/MaratonaDev#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
